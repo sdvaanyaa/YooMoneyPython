@@ -1,0 +1,6 @@
+fastapi~=0.115.8
+yookassa~=3.5.0
+SQLAlchemy~=2.0.38
+pydantic~=2.10.6
+APScheduler~=3.11.0
+python-telegram-bot~=21.10
