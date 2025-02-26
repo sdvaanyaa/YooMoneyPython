@@ -1,0 +1,5 @@
+DATABASE_URL = "postgresql://postgres:postgres@localhost:5432/python"
+YKASSA_SHOP_ID = "1040244"
+YKASSA_SECRET_KEY = "test_TNVOkVTieZJaukOiC38qNcxpHPgrkXXFHTq_jdnyaZ8"
+TELEGRAM_TOKEN = "7849200063:AAEgcKINai7nPZq6r5l_MZN_NgNJxY-559w"
+TELEGRAM_CHAT_ID = "823815921"
